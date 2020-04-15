@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     >
 
-
     <Button
         android:id="@+id/btnEditData"
         android:layout_width="wrap_content"
@@ -13,4 +12,5 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="152dp"
         android:text="Show" />
+
 </RelativeLayout>
